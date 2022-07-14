@@ -1,3 +1,6 @@
+###  Finding type: PrivilegeEscalation:Kubernetes/PrivilegedContainer
+###  Finding type:Kubernetes/ContainerWithSensitiveMount Incident
+
 apiVersion: apps/v1
 kind: Deployment
 metadata:
