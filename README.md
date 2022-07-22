@@ -1,3 +1,3 @@
 # reinforce2022-tdr351
 
-Download 2022 reinforce-tdr351 Hands on Lab Instruction.doc file
+https://catalog.us-east-1.prod.workshops.aws/workshops/a8fcd305-fd4c-4bb8-b44e-7707fd230b71/en-US
